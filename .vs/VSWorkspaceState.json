@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\android"
   ],
-  "SelectedNode": "\\assets",
+  "SelectedNode": "\\android\\.project",
   "PreviewInSolutionExplorer": false
 }
