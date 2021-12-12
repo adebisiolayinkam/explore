@@ -12,7 +12,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Column(children:[
-            Text("Login"),
+            Text("Sign In"),
         TextField(
         keyboardType: TextInputType.emailAddress,
         )
